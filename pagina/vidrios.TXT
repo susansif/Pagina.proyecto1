@@ -1,0 +1,54 @@
+<title>Inicio</title>
+    
+</head>
+    
+<body bgcolor="#FFFFCC">
+    
+</body text="#FF00FF">
+    
+<H1 align="center"><font color="#800000" size="10" face="Comic Sans MS, Arial, MS Sans Serif">Vidrios</font>  
+   
+<blockquote>
+    
+<blockquote>
+
+ <table  width="80%" border="2" align="center" cellspacing="15" bordercolor="#800000" bgcolor="#FFFFCC">
+  <tr align="center">
+   <th colspan="4">VIDRIOS</th>
+  </tr>
+  <tr align="center" valign="middle"> 
+    <td>TIPOS</td>
+    <td>GRUESOS</td>
+  </tr>
+ <tr align="center">
+    <td>TRANSPARENTE</th>
+    <td><p>2mm.</p>
+<p>3mm.</p>
+<p>4mm.</p>
+<p>6mm.</p>
+<p>9mm.</p>
+</td>
+  </tr>
+  <tr align="center">
+    <td>FSOL</td>
+    <td><p>3mm.</p>
+<p>4mm.</p>
+<p>6mm.</p>
+</td>
+  </tr>
+   <tr align="center">
+    <td>CHINO</td>
+<td><p>NATURAL O TRANSPARENTE</p>
+<p>COLOR</p>
+</td>
+  </tr>
+  <tr align="center">
+    <td>TINTEX</td>
+    <td><p>3mm.</p>
+<p>4mm.</p>
+<p>6mm.</p>
+</td>
+  </tr>
+  <tr>
+</table> 
+<body>
